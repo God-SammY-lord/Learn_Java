@@ -4,6 +4,6 @@ public class Main {
 //    Void Implies that the program doesn't return anything
     public static void main(String[] args) {
 //        Simple Print statement
-        System.out.println("Hello World");
+        System.out.println("Hello World, Bye");
     }
 }
